@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![.NET](https://img.shields.io/badge/.NET-9.0-purple.svg)](#)
-[![Release](https://img.shields.io/github/v/release/routersys/YMM4-CRTEffect.svg)](https://github.com/routersys/YMM4-CRTEffect/releases)
+[![Release](https://img.shields.io/github/v/release/routersys/YMM4-CRT.svg)](https://github.com/routersys/YMM4-CRT/releases)
 
 YMM4（YukkuriMovieMaker v4）で、映像にブラウン管風のレトロなエフェクトを追加できるプラグインです。
 
