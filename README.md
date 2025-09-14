@@ -1,4 +1,4 @@
-# YMM4 CRT (ブラウン管) エフェクトプラグイン for YMM4
+# CRT (ブラウン管) エフェクトプラグイン for YMM4
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![.NET](https://img.shields.io/badge/.NET-9.0-purple.svg)](#)
