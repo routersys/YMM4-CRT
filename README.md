@@ -6,6 +6,8 @@
 
 YMM4（YukkuriMovieMaker v4）で、映像にブラウン管風のレトロなエフェクトを追加できるプラグインです。
 
+![image](https://github.com/routersys/YMM4-CRT/blob/master/CRT.png)
+
 ---
 
 > [!CAUTION]
